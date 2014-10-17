@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swv:home|Door43 (swv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swv|d43-swv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swv/archive/master.zip|d43-swv.zip]]
+
+**Recent Changes**
+{{changes>ns = swv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swv|Ethnologue data]]
+
